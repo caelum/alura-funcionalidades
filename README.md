@@ -16,7 +16,7 @@ Descreva o melhor possível para que outras pessoas também se interessem e vote
 
 ## As funcionalidades que estão aqui serão todas criadas logo?
 
-Depende bastante, mas estamos sempre ouvindo nossos alunos e amigos.
+Depende bastante, mas estamos sempre ouvindo nossos alunos e alunas.
 
 
 ## Minha issue foi fechada mas minha sugestão ainda não foi implementada

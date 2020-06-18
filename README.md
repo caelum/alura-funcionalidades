@@ -16,7 +16,7 @@ Descreva o melhor possível para que outras pessoas também se interessem e vote
 
 ## As funcionalidades que estão aqui serão todas criadas logo?
 
-Depende bastante, mas estamos sempre ouvindo nossos alunos e alunas.
+Depende bastante, mas estamos sempre ouvindo nossos alunos e alunas. Idealmente também, **abra uma issue para cada sugestão,** quanto mais detalhes aqui melhor, descreva bem a dor que você sente sobre sua sugestão!
 
 
 ## Minha issue foi fechada mas minha sugestão ainda não foi implementada
@@ -30,4 +30,8 @@ Deve! Quanto mais informações tivermos de como você usa ou imagina a sugestã
 ## Como dou upvote (joinha) em uma sugestão?
 
 Só entrar na issue e clicar no +😃 no canto superior direito do post. É extremamente interessante que os votos sejam usados para nos ajudar a ter ideia da dimensão da sugestão.
+
+## Quero sugerir um **curso**
+Na parte logada da Alura, no rodapé, tem um [link para "Sugira um curso" (link direto aqui).](https://docs.google.com/forms/d/e/1FAIpQLScwKyaSvuFXK9SmMJoLPuYAS2qD_XAAnZPxMZij9qVeflbhBg/viewform) Esse é o caminho correto e direto para o time de conteúdo, facilita bastante na priorização do backlog de cursos.
+
 

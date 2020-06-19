@@ -29,7 +29,7 @@ Deve! Quanto mais informações tivermos de como você usa ou imagina a sugestã
 
 ## Como dou upvote (joinha) em uma sugestão?
 
-Só entrar na issue e clicar no +😃 no canto superior direito do post. É extremamente interessante que os votos sejam usados para nos ajudar a ter ideia da dimensão da sugestão.
+Só entrar na issue e clicar no +😃 no canto superior direito do post. É extremamente interessante que os votos sejam usados para nos ajudar a ter ideia da dimensão da sugestão. Lembrando que não adianta dar upvote na própria sugestão. 😉
 
 ## Quero sugerir um **curso**
 Na parte logada da Alura, no rodapé, tem um [link para "Sugira um curso" (link direto aqui).](https://docs.google.com/forms/d/e/1FAIpQLScwKyaSvuFXK9SmMJoLPuYAS2qD_XAAnZPxMZij9qVeflbhBg/viewform) Esse é o caminho correto e direto para o time de conteúdo, facilita bastante na priorização do backlog de cursos.

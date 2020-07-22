@@ -2,7 +2,7 @@
 
 Nas **Issues** desse repositório você vai encontrar muitas ideias para melhorar a Alura. Você pode participar ativamente **comentando** sobre cada ideia e **votando** nas suas preferidas.
 
-[Veja as issues mais votadas](https://github.com/caelum/alura-funcionalidades/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+)
+**Importante:** leia o FAQ logo aqui em baixo e [veja as issues mais votadas.](https://github.com/caelum/alura-funcionalidades/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+)
 
 # Sugerir algo novo
 
@@ -13,6 +13,25 @@ Se não encontrou a ideia que queria, pode [criar uma nova Issue](https://github
 Descreva o melhor possível para que outras pessoas também se interessem e votem na sua ideia!  Quanto mais detalhada e focada for a descrição, melhor de priorizarmos, debatermos e de implementarmos. Recebemos *muitos* pedidos e estamos tentando consolidar ideias parecidas e poder ajudar ao máximo, mas nunca é tão rápido quanto gostaríamos.
 
 ---
+
+# FAQ
+
+## O que é uma funcionalidade?
+
+Tudo que a Alura pode fazer. Em geral nesse repositório funcionalidade pode ser:
+- um botão que falta em alguma tela;
+- um recurso que está estranho em outra tela;
+- algum fluxo que está com algum problema ou bug;
+- um campo que falta em um formulário, etc.
+
+## O que NÃO é uma funcionalidade e qual caminho seguir?
+
+Ideia é usar os canais específicos 
+ - Dúvida de conteúdo? [Fórum](https://cursos.alura.com.br/forum/todos/1)
+ - Erro em algum ponto do vídeo ou transcrição? [Sugerir melhoria](https://user-images.githubusercontent.com/5431347/88174122-1d2d6c00-cbfa-11ea-87dc-1c637175cc75.png)
+ - Sugestão de algum curso que não temos ou mesmo uma Formação inteira? [Sugestão de cursos](https://docs.google.com/forms/d/e/1FAIpQLScwKyaSvuFXK9SmMJoLPuYAS2qD_XAAnZPxMZij9qVeflbhBg/viewform)
+ - Elogios, reclamações ou outros assuntos? contato@alura.com.br
+ - Dúvidas gerais sobre o uso corporativo de sua empresas? b2b@alura.com.br
 
 ## As funcionalidades que estão aqui serão todas criadas logo?
 

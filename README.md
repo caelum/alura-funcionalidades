@@ -53,4 +53,11 @@ Só entrar na issue e clicar no +😃 no canto superior direito do post. É extr
 ## Quero sugerir um **curso**
 Na parte logada da Alura, no rodapé, tem um [link para "Sugira um curso" (link direto aqui).](https://docs.google.com/forms/d/e/1FAIpQLScwKyaSvuFXK9SmMJoLPuYAS2qD_XAAnZPxMZij9qVeflbhBg/viewform) Esse é o caminho correto e direto para o time de conteúdo, facilita bastante na priorização do backlog de cursos.
 
+## Tem um bug aqui no aplicativo (Android ou iOS)
+Você vai ser respondido mais rápido mandando email para o aplicativos@alura.com.br com as seguintes informações:
+- Qual o seu aparelho
+- Qual a versão do seu Android/iOS
+- Qual a versão do app
+- Qual o seu usuário na Alura
+
 
